@@ -2,7 +2,8 @@
 <div id="app">
     <img src="./assets/logo.png" class="logo">
     <router-view></router-view>
-	我就试试好使不
+试了一下果然好使 太神奇了
+
 </div>
 </template>
 
